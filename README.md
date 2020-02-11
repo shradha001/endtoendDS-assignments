@@ -4,9 +4,17 @@ This repo consists of solutions(as per my views) for different assignments asked
 
 1. Probability Assignments
 
-> File name: probability_assignments.pdf
+   > File name: probability_assignments.pdf
 
 2. Central Tendency Assignments
 
-> File name: central_tendency.pdf
-Jupyter Notebook: central_tendency.ipynb
+   > File name: central_tendency.pdf
+   > Jupyter Notebook: central_tendency.ipynb
+
+3. Numpy Assignments
+
+   > Jupyter Notebook: numpy-assignments.ipynb
+
+4. Pandas Assignments
+
+   > Jupyter Notebook: pandas-assignments.ipynb
