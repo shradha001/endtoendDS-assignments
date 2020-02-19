@@ -23,6 +23,6 @@ This repo consists of solutions(as per my views) for different assignments asked
 
    > Jupyter Notebook: python-assignment.ipynb
 
-6. Python Assignments
+6. Linear Regression Assignments
 
    > Jupyter Notebook: linear-regression.ipynb
