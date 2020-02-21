@@ -26,3 +26,7 @@ This repo consists of solutions(as per my views) for different assignments asked
 6. Linear Regression Assignments
 
    > Jupyter Notebook: linear-regression.ipynb
+
+7. Central Limit Theorem Assignments
+
+   > PDF: central-limit-theorem.pdf
